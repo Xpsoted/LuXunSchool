@@ -8,7 +8,7 @@
 - 披露鲁迅中学内部的问题，为学生争取利益
 ### ⛄ 手机点开右上角三个点即可开始阅读由鲁迅学生的实录，电脑点开左边竖栏即可❤
 ### 📫 如果您想添加内容在本网站上
-- 打开百度贴吧的北京市鲁迅中学吧[![北京市鲁迅中学吧](https://img.shields.io/twitter/url?label=%E5%8C%97%E4%BA%AC%E5%B8%82%E9%B2%81%E8%BF%85%E4%B8%AD%E5%AD%A6%E5%90%A7&style=social)](https://tieba.baidu.com/f?kw=%E5%8C%97%E4%BA%AC%E5%B8%82%E9%B2%81%E8%BF%85%E4%B8%AD%E5%AD%A6)
+- 打开百度贴吧的北京市鲁迅中学吧[![北京市鲁迅中学吧](https://img.shields.io/badge/Group-%40北京市鲁迅中学吧-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://tieba.baidu.com/f?kw=%E5%8C%97%E4%BA%AC%E5%B8%82%E9%B2%81%E8%BF%85%E4%B8%AD%E5%AD%A6)
 - 将你要发的内容写在正文里面，将帖子的题目改为投稿
 - 我看到后会在你的帖子底下进行反馈并挂在本站从😋
 ### 如果您是校领导，我可以明确告诉您
