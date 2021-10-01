@@ -2,6 +2,7 @@
 
 <br>
  <img src="amWiki/images/logo.png" width = "300" height = "300" alt=" " align=center />
+ 
 ### ⌚最后更新[![最后更新](https://img.shields.io/github/last-commit/Xpsoted/LuXunSchool)]
 ### Hi there 👋 我是鲁迅中学高中部在读学生
 - 在本站一切学生享有开放自由的言论权
