@@ -1,8 +1,7 @@
 # 我爱北京鲁迅中学
 
 <br>
- <img src="amWiki/images/logo.png" width = "300" height = "200" alt=" " align=center />
-![ ](amWiki/images/logo.png)  
+ <img src="amWiki/images/logo.png" width = "300" height = "300" alt=" " align=center />
 
 ### Hi there 👋 我是鲁迅中学高中部在读学生
 - 建立本站的目的在于清除鲁迅中学内部的渣滓
