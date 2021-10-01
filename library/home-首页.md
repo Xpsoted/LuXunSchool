@@ -1,7 +1,7 @@
 # 我爱北京鲁迅中学
 
 <br>
-
+ <img src="amWiki/images/logo.png" width = "300" height = "200" alt=" " align=center />
 ![ ](amWiki/images/logo.png)  
 
 ### Hi there 👋 我是鲁迅中学高中部在读学生
