@@ -4,7 +4,7 @@
  <img src="amWiki/images/logo.png" width = "300" height = "300" alt=" " align=center />
  
 ### ⌚最后更新![最后更新](https://img.shields.io/github/last-commit/Xpsoted/LuXunSchool)
-### 📢本站评论页面![论坛](https://ilxzx.xyz/library/chat/chat.html)
+### 📢本站评论页面[![论坛](https://img.shields.io/badge/点我进入-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://ilxzx.xyz/library/chat/chat.html)
 ### Hi there 👋 我是鲁迅中学高中部在读学生
 - 在本站一切学生享有开放自由的言论权
 - 披露鲁迅中学内部的问题，为学生争取利益
