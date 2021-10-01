@@ -2,7 +2,7 @@
 
 <br>
 
-![我爱北京鲁迅中学！](amWiki/images/logo.png =200x200)  
+![](amWiki/images/logo.png =200x200)  
 
 ### Hi there 👋 我是鲁迅中学高中部在读学生
 - 建立本站的目的在于清除鲁迅中学内部的渣滓
