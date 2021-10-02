@@ -19,6 +19,6 @@
 - 💬域名为国外顶级匿名供应商Name.com提供
 <p>
     <div style="width:auto; height:350px;border:none;text-align:center">
-		<iframe allowtransparency="yes" frameborder="0" width="600" height="400" src="/library/chat/chat.html"/>
+		<iframe allowtransparency="yes" frameborder="0" width="300" height="400" src="/library/chat/chat.html"/>
 	</div>
 </p>
