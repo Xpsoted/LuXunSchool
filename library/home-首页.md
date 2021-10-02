@@ -18,7 +18,7 @@
 - 💬贴吧新加坡手机号注册
 - 💬域名为国外顶级匿名供应商Name.com提供
 <p>
-    <div style="width:100%; height:350px;border:none;text-align:center">
+    <div style="width:auto; height:350px;border:none;text-align:center">
 		<iframe allowtransparency="yes" frameborder="0" width="300" height="500" src="/library/chat/chat.html"/>
 	</div>
 </p>
